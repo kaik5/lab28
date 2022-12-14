@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: jikong19/lab28:1.0.0
+        image: jikong19/lab28:1.0.1
         imagePullPolicy: Always 
 ---
 apiVersion: v1 
